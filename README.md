@@ -1,1 +1,2 @@
 # Overfollowers
+Overfollowers is a Instagram account listing website to help users to reach out more easily and to gain more followers. Often people who uses Instagram as their social communication service or as to grow their business, users experience lack of growth in followers or just couldn’t reach out to more customers for their products and that’s where Overfollowers comes in. Easability, accessibility and performance are key focuses of Overfollowers which connects with our motto of “Discover various types of Instagrammers!”.
